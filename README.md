@@ -1,2 +1,2 @@
-# node-steam-status
-Node plugin for checking steam servers status
+# Node steam status
+It's a node plugin for checking steam server status updates.
