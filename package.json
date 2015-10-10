@@ -1,0 +1,27 @@
+{
+  "name": "steam-status",
+  "version": "1.0.0",
+  "description": "A small library to catch changes of steam servers status",
+  "main": "./lib/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "request": "^2.64.0",
+    "async": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autaut03/node-steam-status.git"
+  },
+  "author": "Alex Wells <autaut03@gmail.com> (vk.com/smaylik03)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/autaut03/node-steam-status/issues"
+  },
+  "homepage": "https://github.com/autaut03/node-steam-status#readme"
+}
