@@ -2,6 +2,8 @@ var SteamStatus = require('../lib/index.js'); // use require('steam-status') in 
 
 var status = new SteamStatus({
 	pollInterval: 30000,
+	timeToUpdate: 60000,
+	replaceNames: true
 });
 
 // status change for all servers

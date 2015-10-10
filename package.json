@@ -1,6 +1,6 @@
 {
   "name": "steam-status",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A small library to catch changes of steam servers status",
   "main": "./lib/index.js",
   "directories": {
