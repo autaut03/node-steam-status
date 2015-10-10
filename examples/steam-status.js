@@ -1,7 +1,7 @@
 var SteamStatus = require('../lib/index.js'); // use require('steam-status') in production
 
 var status = new SteamStatus({
-	pollInterval: 15000,
+	pollInterval: 30000,
 });
 
 // status change for all servers

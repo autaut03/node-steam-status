@@ -13,6 +13,10 @@ A node plugin used to check steam servers status updates.
 npm install steam-status
 ```
 
+# Examples
+
+Examples are available [here](https://github.com/autaut03/node-steam-status/blob/master/examples).
+
 # Documentation
 
 It's very easy to use it. Check out the [wiki](https://github.com/autaut03/node-steam-status/wiki).
